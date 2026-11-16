@@ -1,0 +1,501 @@
+[
+  {
+    "session": 1,
+    "title": "Starting Off Right",
+    "printed_page": 2,
+    "topics": "String Names,Technique,Tuning, Finger Exercises, C & G7 Chords",
+    "songs": [],
+    "pdf_page": 5,
+    "pdf_page_end": 9
+  },
+  {
+    "session": 2,
+    "title": "Reading Music & Notes on the 1st & 2nd Strings",
+    "printed_page": 7,
+    "topics": "Music Reading, 1st & 2nd String Notes & Exercises",
+    "songs": [
+      {
+        "title": "Ode To Joy",
+        "cd": 1,
+        "tracks": "2,3,4",
+        "printed_page": 14
+      },
+      {
+        "title": "Jingle Bells",
+        "cd": 1,
+        "tracks": "5,6,7",
+        "printed_page": 15
+      }
+    ],
+    "pdf_page": 10,
+    "pdf_page_end": 18
+  },
+  {
+    "session": 3,
+    "title": "Notes on the 3rd & 4th Strings",
+    "printed_page": 16,
+    "topics": "Ties, Dots, Repeat Signs, Eighth Notes, 3rd & 4th String Notes & Exercises",
+    "songs": [
+      {
+        "title": "Yankee Doodle",
+        "cd": 1,
+        "tracks": "8,9,10",
+        "printed_page": 21
+      },
+      {
+        "title": "When The Saints Go Marchin' In",
+        "cd": 1,
+        "tracks": "11,12,13",
+        "printed_page": 21
+      },
+      {
+        "title": "Aura Lee",
+        "cd": 1,
+        "tracks": "14,15,16",
+        "printed_page": 22
+      }
+    ],
+    "pdf_page": 19,
+    "pdf_page_end": 25
+  },
+  {
+    "session": 4,
+    "title": "Notes on the 5th & 6th Strings",
+    "printed_page": 23,
+    "topics": "5th & 6th String Notes & Exercises, Sharps, Flats, Natural Signs,Am & E Chords",
+    "songs": [
+      {
+        "title": "Minuet in C",
+        "cd": 1,
+        "tracks": "17,18,19",
+        "printed_page": 26
+      },
+      {
+        "title": "Simple Gifts",
+        "cd": 1,
+        "tracks": "20,21,22",
+        "printed_page": 28
+      },
+      {
+        "title": "The Star Spangled Banner",
+        "cd": 1,
+        "tracks": "23,24,25",
+        "printed_page": 29
+      },
+      {
+        "title": "Minuet in G",
+        "cd": 1,
+        "tracks": "26,27,28",
+        "printed_page": 30
+      }
+    ],
+    "pdf_page": 26,
+    "pdf_page_end": 33
+  },
+  {
+    "session": 5,
+    "title": "Basic Open Chords",
+    "printed_page": 31,
+    "topics": "Open Chords & Chord Exercises 1-3",
+    "songs": [
+      {
+        "title": "Morning Has Broken",
+        "cd": 2,
+        "tracks": "2,3,4",
+        "printed_page": 35
+      },
+      {
+        "title": "America The Beautiful",
+        "cd": 2,
+        "tracks": "5,6,7",
+        "printed_page": 36
+      }
+    ],
+    "pdf_page": 34,
+    "pdf_page_end": 39
+  },
+  {
+    "session": 6,
+    "title": "Minor Seventh & Suspended Chords",
+    "printed_page": 37,
+    "topics": "Minor Seventh & Suspended Chords & Strumming Patterns",
+    "songs": [
+      {
+        "title": "Scarborough Fair",
+        "cd": 2,
+        "tracks": "8,9,10",
+        "printed_page": 41
+      },
+      {
+        "title": "Greensleeves",
+        "cd": 2,
+        "tracks": "11,12,13",
+        "printed_page": 42
+      },
+      {
+        "title": "Island Groove",
+        "cd": 2,
+        "tracks": "14,15,16",
+        "printed_page": 42
+      }
+    ],
+    "pdf_page": 40,
+    "pdf_page_end": 45
+  },
+  {
+    "session": 7,
+    "title": "Barre Chords on the 6th String",
+    "printed_page": 43,
+    "topics": "Half-Steps & Whole Steps, 6th String Barre Chords & Exercises, Major Scales",
+    "songs": [
+      {
+        "title": "Home on the Range",
+        "cd": 2,
+        "tracks": "17,18,19",
+        "printed_page": 47
+      },
+      {
+        "title": "Yellow Rose of Texas",
+        "cd": 2,
+        "tracks": "20,21,22",
+        "printed_page": 47
+      }
+    ],
+    "pdf_page": 46,
+    "pdf_page_end": 50
+  },
+  {
+    "session": 8,
+    "title": "Barre Chords on the 5th String",
+    "printed_page": 48,
+    "topics": "5th String Barre Chords & Exercises, Keys & Key Signatures, Relative Major & Minor",
+    "songs": [
+      {
+        "title": "Jamaica Farewell in F",
+        "cd": 2,
+        "tracks": "23,24,25",
+        "printed_page": 51
+      },
+      {
+        "title": "Jamaica Farewell in G",
+        "cd": 2,
+        "tracks": "26,27,28",
+        "printed_page": 51
+      }
+    ],
+    "pdf_page": 51,
+    "pdf_page_end": 54
+  },
+  {
+    "session": 9,
+    "title": "The Secret to Great Strumming",
+    "printed_page": 52,
+    "topics": "Strumming Technique, Intervals & Worksheets",
+    "songs": [
+      {
+        "title": "La Bamba",
+        "cd": 3,
+        "tracks": "2,3,4",
+        "printed_page": 55
+      },
+      {
+        "title": "The Wabash Cannonball",
+        "cd": 3,
+        "tracks": "5,6,7",
+        "printed_page": 56
+      },
+      {
+        "title": "Blues in E",
+        "cd": 3,
+        "tracks": "8,9,10",
+        "printed_page": 56
+      }
+    ],
+    "pdf_page": 55,
+    "pdf_page_end": 59
+  },
+  {
+    "session": 10,
+    "title": "Fingerstyle Guitar",
+    "printed_page": 57,
+    "topics": "Technique & Exercises, Merle Travis & Classical",
+    "songs": [
+      {
+        "title": "House of the Rising Sun",
+        "cd": 3,
+        "tracks": "11,12,13",
+        "printed_page": 61
+      },
+      {
+        "title": "Canon in D",
+        "cd": 3,
+        "tracks": "14,15,16",
+        "printed_page": 62
+      }
+    ],
+    "pdf_page": 60,
+    "pdf_page_end": 65
+  },
+  {
+    "session": 11,
+    "title": "Pentatonic Scales",
+    "printed_page": 63,
+    "topics": "Pentatonic Scales, Forms & Pentatonic Patterns",
+    "songs": [
+      {
+        "title": "A Minor Pentatonic Blues",
+        "cd": 3,
+        "tracks": "17",
+        "printed_page": 66
+      },
+      {
+        "title": "G Major Pentatonic",
+        "cd": 3,
+        "tracks": "18",
+        "printed_page": 66
+      },
+      {
+        "title": "Around the Pentatonic World",
+        "cd": 3,
+        "tracks": "19",
+        "printed_page": 66
+      }
+    ],
+    "pdf_page": 66,
+    "pdf_page_end": 69
+  },
+  {
+    "session": 12,
+    "title": "Advanced Chords",
+    "printed_page": 67,
+    "topics": "Two Chords, Major 7th Chords, Minor 11th Chords, Exercises & Chord Substitution",
+    "songs": [
+      {
+        "title": "Rockin'",
+        "cd": 3,
+        "tracks": "20",
+        "printed_page": 70
+      },
+      {
+        "title": "Suspended Smooth",
+        "cd": 3,
+        "tracks": "21",
+        "printed_page": 70
+      },
+      {
+        "title": "Acoustic Groove",
+        "cd": 3,
+        "tracks": "22",
+        "printed_page": 70
+      }
+    ],
+    "pdf_page": 70,
+    "pdf_page_end": 73
+  },
+  {
+    "session": 13,
+    "title": "Playing the Blues",
+    "printed_page": 71,
+    "topics": "Blues Scale, Minor Pentatonic with Blues Notes, Blues Chord Progression,Triads & Worksheets",
+    "songs": [
+      {
+        "title": "Jammin the Blues",
+        "cd": 4,
+        "tracks": "2,3",
+        "printed_page": 75
+      },
+      {
+        "title": "Johnny\u2019s E Blues",
+        "cd": 4,
+        "tracks": "4,5",
+        "printed_page": 75
+      }
+    ],
+    "pdf_page": 74,
+    "pdf_page_end": 78
+  },
+  {
+    "session": 14,
+    "title": "Giving Your Playing Some Style",
+    "printed_page": 76,
+    "topics": "Sliding, Bends, Hammer-ons, Pull-offs,Tapping & Harmonics",
+    "songs": [
+      {
+        "title": "Bending the Blues",
+        "cd": 4,
+        "tracks": "6",
+        "printed_page": 78
+      },
+      {
+        "title": "Jazz Octaves",
+        "cd": 4,
+        "tracks": "7",
+        "printed_page": 79
+      },
+      {
+        "title": "The Funky Mute",
+        "cd": 4,
+        "tracks": "8",
+        "printed_page": 79
+      }
+    ],
+    "pdf_page": 79,
+    "pdf_page_end": 82
+  },
+  {
+    "session": 15,
+    "title": "Electric Guitars-The Heart of Rock & Roll",
+    "printed_page": 80,
+    "topics": "Power Chords, Chicken Pickin', Country Bends, Arpeggios, Sliding 4ths, Harmonized Major Scale",
+    "songs": [
+      {
+        "title": "Power Chord Rock",
+        "cd": 4,
+        "tracks": "9",
+        "printed_page": 84
+      },
+      {
+        "title": "Power Riffs",
+        "cd": 4,
+        "tracks": "10",
+        "printed_page": 84
+      }
+    ],
+    "pdf_page": 83,
+    "pdf_page_end": 87
+  },
+  {
+    "session": 16,
+    "title": "Advanced Strumming",
+    "printed_page": 85,
+    "topics": "16th Notes, Strumming & Exercises",
+    "songs": [
+      {
+        "title": "Rolling Along",
+        "cd": 4,
+        "tracks": "11",
+        "printed_page": 87
+      },
+      {
+        "title": "A Little Bit Rocky",
+        "cd": 4,
+        "tracks": "12",
+        "printed_page": 88
+      },
+      {
+        "title": "Electric Funk",
+        "cd": 4,
+        "tracks": "13",
+        "printed_page": 88
+      }
+    ],
+    "pdf_page": 88,
+    "pdf_page_end": 91
+  },
+  {
+    "session": 17,
+    "title": "Going Beyond the First Position",
+    "printed_page": 89,
+    "topics": "3 Note on a String scales, Seventh Chords",
+    "songs": [
+      {
+        "title": "Triplet Scale Practice",
+        "cd": 5,
+        "tracks": "2,3,4",
+        "printed_page": 91
+      },
+      {
+        "title": "Pop Ballad Groove",
+        "cd": 5,
+        "tracks": "5",
+        "printed_page": 92
+      },
+      {
+        "title": "ZZ Shuffle",
+        "cd": 5,
+        "tracks": "6",
+        "printed_page": 92
+      }
+    ],
+    "pdf_page": 92,
+    "pdf_page_end": 95
+  },
+  {
+    "session": 18,
+    "title": "Jazz",
+    "printed_page": 93,
+    "topics": "Jazz Chords & Chord Progressions",
+    "songs": [
+      {
+        "title": "Swingin",
+        "cd": 5,
+        "tracks": "7,8",
+        "printed_page": 96
+      },
+      {
+        "title": "Jazz Blues",
+        "cd": 5,
+        "tracks": "9",
+        "printed_page": 97
+      }
+    ],
+    "pdf_page": 96,
+    "pdf_page_end": 100
+  },
+  {
+    "session": 19,
+    "title": "Soloing",
+    "printed_page": 98,
+    "topics": "Soloing Techniques & Ear Training",
+    "songs": [
+      {
+        "title": "Ear Training Exercises",
+        "cd": 5,
+        "tracks": "10,11,12",
+        "printed_page": 100
+      },
+      {
+        "title": "Stevie's Groove",
+        "cd": 5,
+        "tracks": "13",
+        "printed_page": 101
+      }
+    ],
+    "pdf_page": 101,
+    "pdf_page_end": 104
+  },
+  {
+    "session": 20,
+    "title": "All the Chords You Need To Know",
+    "printed_page": 102,
+    "topics": "Chord Formulas,Abbreviations & Inversions",
+    "songs": [
+      {
+        "title": "Chord Exercise 1",
+        "cd": 5,
+        "tracks": "14",
+        "printed_page": 104
+      },
+      {
+        "title": "Chord Exercise 2",
+        "cd": 5,
+        "tracks": "15",
+        "printed_page": 105
+      },
+      {
+        "title": "Friend",
+        "cd": 5,
+        "tracks": "16",
+        "printed_page": 105
+      },
+      {
+        "title": "Funky Groove",
+        "cd": 5,
+        "tracks": "17",
+        "printed_page": 105
+      }
+    ],
+    "pdf_page": 105,
+    "pdf_page_end": 109
+  }
+]

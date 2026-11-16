@@ -1,0 +1,39 @@
+.chat {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.messages { flex: 1; display: flex; flex-direction: column; gap: 0.75rem; padding: 1rem 0; }
+.hint { color: #71717a; }
+.bubble {
+  max-width: 85%;
+  padding: 0.7rem 0.9rem;
+  border-radius: 12px;
+  line-height: 1.45;
+  white-space: pre-wrap;      /* keep the line breaks and bullets in the tutor's answers */
+}
+.bubble.student { align-self: flex-end; background: #2563eb; color: #fff; }
+.bubble.tutor { align-self: flex-start; background: #fff; border: 1px solid #e4e4e7; }
+.bubble.not_covered { background: #fffbeb; border-color: #f59e0b; }
+.bubble.error { background: #fef2f2; border-color: #ef4444; }
+.bubble.loading { color: #71717a; font-style: italic; }
+.composer { display: flex; gap: 0.5rem; position: sticky; bottom: 0; padding-top: 0.5rem; background: #f4f4f5; }
+.composer input { flex: 1; padding: 0.7rem; border: 1px solid #d4d4d8; border-radius: 8px; font-size: 1rem; }
+.composer button { padding: 0.7rem 1.2rem; border: 0; border-radius: 8px; background: #2563eb; color: #fff; font-size: 1rem; cursor: pointer; }
+.composer button:disabled { background: #a1a1aa; cursor: not-allowed; }
+
+/* ---- sources and page preview ---- */
+.sources { margin-top: 0.7rem; display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+.sources-title { font-size: 0.8rem; color: #71717a; }
+.chip { padding: 0.2rem 0.6rem; border: 1px solid #a1a1aa; border-radius: 999px; background: #fff; color: #3f3f46; font-size: 0.8rem; cursor: pointer; }
+.chip.cited { background: #dbeafe; border-color: #2563eb; color: #1e3a8a; font-weight: 600; }
+.chip[aria-pressed="true"] { outline: 2px solid #2563eb; }
+.page-preview { margin-top: 0.7rem; }
+.preview-title { margin: 0 0 0.3rem; font-size: 0.85rem; color: #52525b; }
+.page-preview img { display: block; max-width: 100%; margin-top: 0.5rem; border: 1px solid #e4e4e7; border-radius: 6px; }
+
+.bubble.see_page { background: #eff6ff; border-color: #60a5fa; }
